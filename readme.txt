@@ -1,3 +1,5 @@
+This is an archive from a college course I took in something like 2004.
+
 This blockdude game is being released to the students at
 Normandale Community College enrolled in CSCI1097 but may be
 shared with anyone :)
@@ -40,7 +42,7 @@ and 3 is the door to get you to the next level
 
 please tell me if you find any more bugs, or if you've made substantial
 changes to the program, or if you just need to ask me a question.
-i can be reached at freeze@djfreezingcold.com
+i can be reached at [redacted].
 
 thanks for your interest in this program :)
 
