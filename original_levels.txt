@@ -1,0 +1,16 @@
+#if you want to make levels, follow this pattern
+#LEVELNUMBER:PASSWORD:level_file:h:w:x:y
+# where x and y are starting positions
+# and h and w are height and width of the entire level
+# comments can only be used in your levels.txt file
+1:PASSWORD:level1.txt:7:20:16:1
+2:QHJFCXBN:level2.txt:10:22:18:3
+3:LJHNASDF:level3.txt:11:19:9:4
+4:POHLKJDS:level4.txt:16:24:17:6
+5:LOIWUERM:level5.txt:13:22:12:5
+6:GUESSWHT:level6.txt:13:21:13:5
+7:WHTTMSIT:level7.txt:14:24:17:4
+8:CHKNBUTT:level8.txt:17:27:20:1
+9:FROZNFEW:level9.txt:16:20:14:8
+10:WOOOHOOO:level10.txt:20:27:14:7
+11:ALMOSTDN:level11.txt:19:29:13:14

@@ -1,0 +1,9 @@
+#define TITLE_SCREEN_MODE	0
+#define LEVEL_MODE			1
+#define BEAT_GAME			2
+#define NEW_GAME			1
+#define	RESET_LEVEL			2
+#define NONE_SELECTED		0
+#define NEW_SELECTED		1
+#define PASS_SELECTED		2
+#define QUIT_SELECTED		3
