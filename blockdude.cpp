@@ -3,8 +3,6 @@
 	Assignment #2 in CSCI1097 -- OpenGL
 	Based on the popular game for the TI-83
 	
-	Jacob Christie
-	freeze@djfreezingcold.com
 	please read "readme.txt" in this directory
 	for information about this program and other random stuff
 	
