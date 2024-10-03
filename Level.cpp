@@ -2,8 +2,7 @@
 // I know a lot of it is messy... but i was too lazy to clean much of it up
 // it needs to be made so that a person can type in a password and continue their game...
 // but that should be easy enough for any of you reading this to implement.
-// if you find any major bugs, email me: freeze@djfreezingcold.com
-
+// if you find any major bugs, email me: [redacted]
 
 
 
